@@ -1,0 +1,25 @@
+{
+  "name": "Telegram Message Deleter Bot by Gagan",
+  "logo": "https://telegra.ph/file/7a6d14b5586c59e3f3d8c.jpg",
+  "description": "Telegram bot for managing messages within a specified range in a Telegram channel.",
+  "repository": "https://github.com/devgaganin/Messages-Deleter-Bot",
+  "keywords": ["telegram", "bot", "python"],
+  "env": {
+    "TOKEN": {
+      "description": "Telegram Bot Token, No need to fill here you have to fill in bot.py in your forked repo",
+      "required": False
+    }
+  },
+  "addons": [],
+  "buildpacks": [],
+  "scripts": {
+    "postdeploy": null
+  },
+  "formation": {
+    "dev_gagan": {
+      "quantity": 1,
+      "size": "Free"
+    }
+  },
+  "stack": "container"
+}
