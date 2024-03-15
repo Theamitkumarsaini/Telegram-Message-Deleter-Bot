@@ -79,14 +79,6 @@ Feel free to reach out for support or follow me on various platforms:
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/devgagan.in)
 [![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)](https://github.com/devgaganin)
 
-## Files and Directory Structure
-
-- **bot.py**: Main Python script containing the bot's functionality.
-- **welcome_photo.jpg**: Welcome photo sent by the bot.
-- **requirements.txt**: List of Python dependencies.
-- **Procfile**: Specifies the process type and command to run the bot on Heroku.
-- **README.md**: This file, providing instructions and information about the bot.
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
