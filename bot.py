@@ -57,7 +57,7 @@ def handle_end_id(update, context):
         return END_MESSAGE_ID
 
 def start(update, context):
-    photo = open('welcome_photo.jpg', 'rb')
+    photo = open('botphoto.jpg', 'rb')
     caption = "Welcome to Channel/Group Message Delete Bot! Click Help button to get started?"
     buttons = [
         [InlineKeyboardButton("Join Group", url="https://t.me/dev_gagan")],
