@@ -2,37 +2,7 @@
 
 This is a Telegram bot built with Python using the python-telegram-bot library. The bot allows users to delete messages within a specified range in a Telegram channel or Group coded by [Team SPY](https:/t.me/dev_gagan).
 
-## Setup
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your_username/telegram-bot.git
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   cd telegram-bot
-   pip install -r requirements.txt
-   ```
-
-3. **Set Up Telegram Bot:**
-   - Create a new bot on Telegram and obtain the bot token.
-   - Update the `bot.py` file with your bot token.
-
-4. **Run the Bot Locally:**
-   ```bash
-   python bot.py
-   ```
-
-## Usage
-
-Once the bot is running, you can interact with it in the following ways:
-
-- **/start**: Starts the bot and welcomes the user with a photo, caption, and buttons.
-- **/delete**: Initiates the process to delete messages within a specified range in a Telegram channel.
-- **/help**: Provides assistance on how to use the bot.
-
-## Deployment
+## Deployment / Setup
 
 ### VPS/Local Deployment
 
@@ -68,6 +38,14 @@ You can deploy the bot to Heroku with just a few clicks:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 Click the button above to deploy the bot to Heroku. Don't forget to set your Telegram bot token as a config variable named `TOKEN` in the `bot.py`.
+
+## Usage
+
+Once the bot is running, you can interact with it in the following ways:
+
+- **/start**: Starts the bot and welcomes the user with a photo, caption, and buttons.
+- **/delete**: Initiates the process to delete messages within a specified range in a Telegram channel.
+- **/help**: Provides assistance on how to use the bot.
 
 ## Support
 
