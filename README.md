@@ -1,9 +1,6 @@
-Sure! Here's the updated README.md file with the deployment section divided into two parts - one for VPS/Local deployment and the other for deploying on Heroku with a deploy button:
+# Telegram Channel Messages Deleter Bot
 
-```markdown
-# Telegram Bot
-
-This is a Telegram bot built with Python using the python-telegram-bot library. The bot allows users to delete messages within a specified range in a Telegram channel.
+This is a Telegram bot built with Python using the python-telegram-bot library. The bot allows users to delete messages within a specified range in a Telegram channel or Group coded by [Team SPY](https:/t.me/dev_gagan).
 
 ## Setup
 
@@ -44,9 +41,9 @@ To deploy the bot on your own server or locally, follow these steps:
 1. **Set up a Virtual Private Server (VPS) or Local Environment:** 
    Ensure you have a server or local machine where you can run the bot.
 
-2. **Clone the Repository:**
+2. **Clone the Repository:** Fork the repository and add star my repo
    ```bash
-   git clone https://github.com/your_username/telegram-bot.git
+   git clone your_repo_link
    ```
 
 3. **Install Dependencies:**
@@ -70,7 +67,17 @@ You can deploy the bot to Heroku with just a few clicks:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Click the button above to deploy the bot to Heroku. Don't forget to set your Telegram bot token as a config variable named `TOKEN` in the Heroku dashboard.
+Click the button above to deploy the bot to Heroku. Don't forget to set your Telegram bot token as a config variable named `TOKEN` in the `bot.py`.
+
+## Support
+
+Feel free to reach out for support or follow me on various platforms:
+
+[![Telegram](telegram.png)](https://t.me/dev_gagan)
+[![Website](website.png)](https://devgagan.in/)
+[![YouTube](youtube.png)](https://youtube.com/@dev_gagan)
+[![Instagram](instagram.png)](https://instagram.com/devgaganin)
+[![GitHub](github.png)](https://github.com/devgaganin)
 
 ## Files and Directory Structure
 
@@ -87,6 +94,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-In the Heroku deployment section, the deploy button will directly deploy the bot to Heroku when clicked.
