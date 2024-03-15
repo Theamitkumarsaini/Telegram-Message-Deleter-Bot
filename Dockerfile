@@ -1,9 +1,8 @@
 # Use the official Python image as base
 FROM python:3.9-slim
 
-# Set environment variables
-ENV PYTHONUNBUFFERED=1 \
-    TOKEN='YOUR_BOT_TOKEN'
+# Set environment variable
+ENV PYTHONUNBUFFERED=1
 
 # Set working directory
 WORKDIR /app
