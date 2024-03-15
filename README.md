@@ -73,11 +73,11 @@ Click the button above to deploy the bot to Heroku. Don't forget to set your Tel
 
 Feel free to reach out for support or follow me on various platforms:
 
-[![Telegram](telegram.png)](https://t.me/dev_gagan)
-[![Website](website.png)](https://devgagan.in/)
-[![YouTube](youtube.png)](https://youtube.com/@dev_gagan)
-[![Instagram](instagram.png)](https://instagram.com/devgaganin)
-[![GitHub](github.png)](https://github.com/devgaganin)
+[![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v2.png)](https://t.me/dev_gagan)
+[![Website](https://img.icons8.com/color/48/000000/domain.png)](https://devgagan.in/)
+[![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://youtube.com/@dev_gagan)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/devgaganin)
+[![GitHub](https://img.icons8.com/color/48/000000/github--v1.png)](https://github.com/devgaganin)
 
 ## Files and Directory Structure
 
